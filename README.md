@@ -5,6 +5,10 @@
 # **Instrucciones para el participante**
 [Ver](Instrucciones/Readme_participante.md)
 
+# **Uso de Codespaces**
+[Ver](Instrucciones/Readme_action_codespaces.md)
+
+
 # **Ejercicio INTEGRACIÓN CONTINUA CON LIQUIBASE**
 
 Prerrequisito: Haber tomado el taller de Integración continua de base de datos con liquibase, dado que ahí se generaran los ambientes y xml entre desarrollo y pruebas.
