@@ -4,7 +4,7 @@
 
 Seleccionar settings.
 
-![Descripción de la imagen](Imagenes/Img1.png) 
+![Descripción de la imagen](./Imagenes/Img1.png) 
 
 Invitar a un colaborador.
 
