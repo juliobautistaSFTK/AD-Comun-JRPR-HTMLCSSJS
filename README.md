@@ -3,7 +3,7 @@
 
 
 # **Instrucciones para el participante**
-[Ver](Instrucciones/Ejercicio_Comun_SWENG_TRJRPR.docx)
+[Ver](Instrucciones/Readme_participante.md)
 
 # **Uso de Codespaces**
 [Ver](Instrucciones/Readme_action_codespaces.md)
