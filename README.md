@@ -3,7 +3,7 @@
 
 
 # **Instrucciones para el participante**
-[Ver](Instrucciones/Readme_participante.md)
+[Ver](Instrucciones/Comun.md)
 
 # **Uso de Codespaces**
 [Ver](Instrucciones/Readme_action_codespaces.md)
