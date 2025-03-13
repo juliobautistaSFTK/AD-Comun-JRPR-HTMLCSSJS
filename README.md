@@ -3,7 +3,7 @@
 
 
 # **Instrucciones para el participante**
-Lee el documento Ejercicio_Comun_SWENG_TRJRPR que está en raíz en este repositorio. Muy importante leas la siguiente sección.
+Lee el documento Ejercicio_Comun_SWENG_TRJRPR que está en raíz en este repositorio, este ejercicio se basa en la sección "Temas: HTML, JS, CSS.". Muy importante leas la siguiente sección.
 
 [Da clic para acceder a este repositorio](Instrucciones/Readme_participante.md)
 
