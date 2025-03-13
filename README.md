@@ -4,7 +4,8 @@
 
 # **Instrucciones para el participante**
 Lee el documento Ejercicio_Comun_SWENG_TRJRPR que está en raíz en este repositorio. Muy importante leas la siguiente sección.
-[Da clic para conocer los pasos siguientes](Instrucciones/Readme_participante.md)
+
+[Da clic para acceder a este repositorio](Instrucciones/Readme_participante.md)
 
 # **Uso de Codespaces**
 [Ver](Instrucciones/Readme_action_codespaces.md)
