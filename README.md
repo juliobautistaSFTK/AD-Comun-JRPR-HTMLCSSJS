@@ -9,7 +9,7 @@ Lee el documento Ejercicio_Comun_SWENG_TRJRPR que está en raíz en este reposit
 [Ver](Instrucciones/Readme_action_codespaces.md)
 
 
-# **Ejercicio: Uso de HTML, CSS y JS**
+# **Ejercicio: Uso de HTML, CSS y JS (Aviso: Este ejercicio forma parte de 3 en total)**
 
 Prerrequisito: Haber tomado los cursos internos de HTML, CSS y JavaScript.
 
