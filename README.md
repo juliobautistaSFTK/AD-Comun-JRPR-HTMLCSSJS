@@ -17,9 +17,9 @@ Prerrequisito: Haber tomado los cursos internos de HTML, CSS y JavaScript.
 Leer y seguir los pasos del documento Ejercicio_Comun_SWENG_TRJRPR y completar las tareas descritas correspondientes a la sección "Temas: HTML, JS, CSS."
 
 # **Cómo evaluar:**
-Se evaluará cada xml y archivos de ambientación creados tenendo un valor del 70% de la calificación.
+Este ejercicio forma parte de 3 en total, la siguiente tabla muestra cómo se tomarán las entregas para la calificación.
+![Descripción de la imagen](../Imagenes/Img55.png) 
 
-El screenshot de la base de datos de producción con los cambios de pruebas tendrá un valor del 30% de la calificación
 
 # Evitar el plagio
 Es de vital importancia no copiar la solución de otro colaborador, esto generará una práctica desleal y se levantará un Warning.
