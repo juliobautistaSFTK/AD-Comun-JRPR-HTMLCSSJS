@@ -18,7 +18,7 @@ Leer y seguir los pasos del documento Ejercicio_Comun_SWENG_TRJRPR y completar l
 
 # **Cómo evaluar:**
 Este ejercicio forma parte de 3 en total, la siguiente tabla muestra cómo se tomarán las entregas para la calificación.
-![Descripción de la imagen](../Imagenes/Img55.png) 
+![Descripción de la imagen](Imagenes/Img55.png) 
 
 
 # Evitar el plagio
