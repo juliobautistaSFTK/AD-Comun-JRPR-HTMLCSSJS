@@ -81,7 +81,7 @@ Te presentará la comparación de los cambios, donde podrás seleccionar tu rama
 
 ![Descripción de la imagen](../Imagenes/Img27_1.png)
 
-Tendrás esta pantalla donde es muy importante escribir en campo Add a title la palabra Ejercicio_(el número del ejericio) y tu IS como se muestra en la imagen, puedes agregar alguna descripción adicional en el campo Add a description y selecciona Create pull request.
+Tendrás esta pantalla donde es muy importante escribir en campo Add a title la palabra Ejercicio_(el número del ejericio) y tu CorreoElectronico@softtek.com como se muestra en la imagen, puedes agregar alguna descripción adicional en el campo Add a description y selecciona Create pull request.
 
 ![Descripción de la imagen](../Imagenes/Img29.png)
 
