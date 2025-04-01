@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Ejercicio 1 Alta</title>
+        <link rel="stylesheet" href="Home.css" />
+        <script src="Validaciones.js" ></script>
+    </head>
+    <body class="container">
+        <h1>Alta de Producto</h1>
+        <table>
+            <tr>
+                <td>Nombre:</td>
+                <td> <input type="text" id="Nombre" name="Nombre" /> </td>
+            </tr>
+            <tr>
+                <td>Precio:</td>
+                <td> <input type="text" id="Precio" name="Precio" /> </td>
+            </tr>
+            <tr>
+                <td>Categoria:</td>
+                <td> <select id="Categoria" name="Categoria"> 
+                       <option id="cveCategoria" selected >Seleccione</option>
+                        <option id="cveCategoria">Bebidas</option>
+                        <option id="cveCategoria">Limpieza</option>
+                        <option id="cveCategoria">Comida</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Activo:</td>
+                <td>
+                    <input type="checkbox" id="activo">
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <button  name="Guardar" id="Guardar" onclick="Guardar()" >Guardar</button>
+                </td>
+                    
+                
+            </tr>
+        </table>
+    </body>
+
+</html>
