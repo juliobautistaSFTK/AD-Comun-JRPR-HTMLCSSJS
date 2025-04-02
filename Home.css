@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(146, 218, 245);
+    margin:auto;
+    text-align: center
+   
+   }
+   table {
+       background-color: rgb(238, 255, 0);
+       font-size: small;
+       font-family: 'Courier New', Courier, monospace;
+       align-self: center;
+   }
+   h1 {
+       font-family: Arial, Helvetica, sans-serif;
+       color: white;
+   }
+   .encabezado {
+       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       font-size: medium;
+       background-color:burlywood;
+   }
+   
+     .container {
+       display: grid;
+       place-content: center;
+     }
