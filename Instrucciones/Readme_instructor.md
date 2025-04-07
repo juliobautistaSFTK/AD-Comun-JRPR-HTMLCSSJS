@@ -2,11 +2,11 @@
 
 ### Indicaciones para invitar a un participante
 
-Seleccionar settings.
+1.-Seleccionar settings.
 
 ![Descripción de la imagen](../Imagenes/Img1.png) 
 
-Invitar a un colaborador.
+2.-Invitar a un colaborador.
 
 ![Descripción de la imagen](../Imagenes/Img2.png)
 
@@ -14,7 +14,7 @@ Agregar.
 
 ![Descripción de la imagen](../Imagenes/Img3.png)
 
-Escribe el usuario a quien invitarás.
+3.-Escribe el usuario a quien invitarás.
 
 ![Descripción de la imagen](../Imagenes/Img4.png)
 
@@ -24,46 +24,46 @@ Mostrará este mensaje de invitación, quedará como pendiente y se quitará cua
 
 ### Evaluar a un participante
 
-Para evaluar a un participante, selecciona Pull request, el número que veas a un lado es el número de participatnes que han enviado su solución.
+1.-Para evaluar a un participante, selecciona Pull request, el número que veas a un lado es el número de participatnes que han enviado su solución.
 
 ![Descripción de la imagen](../Imagenes/Img32.png)
 
-Podrás identificar la entrega y al participante con los datos que aparecen con en la siguiente pantalla:
+2.-Podrás identificar la entrega y al participante con los datos que aparecen con en la siguiente pantalla:
 
 ![Descripción de la imagen](../Imagenes/Img33.png)
 
-Selecciona el repositorio del participante para acceder a su action, como en la pantalla siguiente.
+3.-Selecciona el repositorio del participante para acceder a su action, como en la pantalla siguiente.
 
 ![Descripción de la imagen](../Imagenes/Img34.png)
 
-Esto te llevará al repositorio del participante, selecciona Actions.
+4.-Esto te llevará al repositorio del participante, selecciona Actions.
 
 ![Descripción de la imagen](../Imagenes/Img35.png)
 
-Ahí podrás observar, si el action está en verde significa que todo se ejecutó correctamente.
+5.-Ahí podrás observar, si el action está en verde significa que todo se ejecutó correctamente.
 
 ![Descripción de la imagen](../Imagenes/Img36.png)
 
-En caso de que el action marque fallido, podrás consultar la falla dando click sobre el action.
+6.-En caso de que el action marque fallido, podrás consultar la falla dando click sobre el action.
 
 ![Descripción de la imagen](../Imagenes/Img24.png)
 
-Selecciona el action fallido para ver el detalle del log.
+7.-Selecciona el action fallido para ver el detalle del log.
 
 ![Descripción de la imagen](../Imagenes/Img25.png)
 ![Descripción de la imagen](../Imagenes/Img26.png)
 
-Podrás evaluar conforme al criterio definido para este ejercicio y notificarás al participante.
+8.-Podrás evaluar conforme al criterio definido para este ejercicio y notificarás al participante.
 
 Si el action está en verde y requieres ver la solución funcionando, deberás utilizar un Codespace.
 
-Asegúrate de estar en tu repositorio, ya que el repositorio del participante es muy parecido en cuanto a la estructura y rama.
+9.-Asegúrate de estar en tu repositorio, ya que el repositorio del participante es muy parecido en cuanto a la estructura y rama.
 
 Una vez que estés en tu repositorio como instructor, selecciona Pull request.
 
 ![Descripción de la imagen](../Imagenes/Img32.png)
 
-Selecciona el request del ejercicio y participante a evaluar.
+10.-Selecciona el request del ejercicio y participante a evaluar.
 
 ![Descripción de la imagen](../Imagenes/Img33.png)
 
@@ -75,7 +75,7 @@ Tendrás una pantalla como esta en el browser.
 
 ![Descripción de la imagen](../Imagenes/Img38.png)
 
-Si requieres utilizar Visual Studio Code, regresa a la pantalla de tu repositorio, refresca y selecciona Code, selecciona Codespaces, selecciona los 3 puntos y selecciona Open in Visual Studio Code.
+11.-Si requieres utilizar Visual Studio Code, regresa a la pantalla de tu repositorio, refresca y selecciona Code, selecciona Codespaces, selecciona los 3 puntos y selecciona Open in Visual Studio Code.
 
 ![Descripción de la imagen](../Imagenes/Img39.png)
 
