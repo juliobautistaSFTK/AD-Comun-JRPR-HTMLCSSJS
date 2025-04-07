@@ -5,7 +5,7 @@
 
 # **Instrucciones para el participante**
 
-# ***Como prerequisito, es necesatio tener conocimientos básicos en git***
+ ***Como prerequisito, es necesatio tener conocimientos básicos en git***
 
 Lee el documento Ejercicio_Comun_SWENG_TRJRPR que está en raíz en este repositorio, este ejercicio se basa en la sección "Temas: HTML, JS, CSS.". Muy importante leas la siguiente sección.
 
